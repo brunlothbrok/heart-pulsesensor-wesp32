@@ -57,6 +57,10 @@ Esses dados podem ser monitorados remotamente através de um cliente MQTT.
 
 Este projeto oferece uma maneira prática de monitorar os batimentos cardíacos em tempo real usando a conectividade IoT, sendo útil para aplicações de saúde e bem-estar.
 
+## Video demonstração total do projeto:
+
+Link: https://www.youtube.com/watch?v=HgSdE-vFvLw
+
 ## Descrição do Hardware Utilizado
 
 Para este projeto, utilizamos uma série de componentes de hardware e plataformas de desenvolvimento que permitem a criação de um monitor de batimentos cardíacos com conectividade à internet. Aqui está uma descrição detalhada de cada componente utilizado:
