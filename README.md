@@ -1,6 +1,6 @@
 # Trabalho Objetos Inteligentes Conectados - Mackenzie 2024
 ## Monitor Batimentos Cardíacos IOT
-
+## O Codigo fonte do projeto se encontra na Branch Master
 ## Descrição do Projeto
 
 Este projeto envolve a criação de um monitor de batimentos cardíacos utilizando o microcontrolador ESP32, um sensor de pulsação (PulseSensor), uma protoboard e fios para as conexões. O monitor envia os dados de batimentos cardíacos para a internet usando o protocolo MQTT, permitindo a monitoração remota em tempo real.
@@ -196,3 +196,5 @@ Uso: Facilitar a conexão MQTT e monitorar os dados de batimentos cardíacos env
 Descrição: Um broker MQTT de código aberto e gratuito, mantido pela Eclipse Foundation. Facilita a comunicação entre dispositivos IoT.
 
 Uso: Servidor ao qual o ESP32 se conecta para enviar os dados dos batimentos cardíacos via MQTT.
+
+# O CÓDIGO FONTE DO PROJETO SE ENCONTRA NA BRANCH MASTER
